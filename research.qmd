@@ -1,0 +1,43 @@
+---
+title: "Research"
+toc: true
+---
+
+My research uses causal inference methods to study household decision-making, human capital investment, and the long-run effects of policy and environmental shocks.
+
+## Fertility Constraints and Household Bargaining Power
+
+**Status:** Ongoing research
+
+This project studies how fertility constraints affect women's economic outcomes and bargaining power within households. I examine whether eligibility for China's 2013/2014 Single-Only Two-Child Policy changes wives' labor supply, earnings shares, fertility decisions, household expenditures, and participation in household decision-making.
+
+**Current approach**
+
+- Constructing a couple-level panel using the China Family Panel Studies
+- Developing difference-in-differences and event-study specifications
+- Examining pre-trends and treatment timing
+- Studying heterogeneity by desired fertility and firstborn sex
+
+**Methods:** Difference-in-differences, event studies, panel data, fixed effects
+
+---
+
+## Life-Stage Flood Exposure and Long-Run Health
+
+**Status:** Ongoing research
+
+This project examines whether exposure to major floods during different stages of life has persistent effects on health. The research design compares activated and non-activated state-designated flood detention basins located within the same river systems.
+
+**Current approach**
+
+- Integrating digitized flood-basin boundaries with longitudinal health data
+- Comparing exposure during different life stages
+- Assessing covariate balance and parallel trends
+- Addressing attrition, mortality, and survivor selection
+
+**Methods:** Cohort-based difference-in-differences, spatial data, panel data, partial identification
+
+---
+## Commitment Savings, Household Control, and Education Investment
+
+**Status:** Ongoing research

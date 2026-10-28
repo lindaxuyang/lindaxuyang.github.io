@@ -1,0 +1,28 @@
+project:
+  type: website
+  output-dir: docs
+  render:
+    - index.qmd
+    - teaching.qmd
+    - about.qmd
+
+website:
+  navbar:
+    background: white
+    foreground: dark
+    search: false
+    right:
+      - href: index.qmd
+        text: Home
+      - href: index.qmd#current-research
+        text: Research
+      - href: teaching.qmd
+        text: Teaching
+      - href: about.qmd
+        text: About
+format:
+  html:
+    theme: cosmo
+    css: styles.css
+    toc: true
+    link-external-newwindow: true

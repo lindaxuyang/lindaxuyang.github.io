@@ -1,0 +1,48 @@
+---
+toc: false
+page-layout: full
+---
+::::: {.home-shell}
+:::: {.profile-column}
+[![](images/profile.jpg){.profile-photo fig-alt="Portrait of Xu (Linda) Yang"}](index.qmd)
+
+# Xu (Linda) Yang
+
+PhD Student  
+Department of Economics  
+University of Washington
+
+**[xyang58 [at] uw [dot] edu](mailto:xyang58@uw.edu)**  
+
+[Department Profile](https://econ.washington.edu/people/xu-linda-yang){target="_blank"}  
+
+[LinkedIn](https://www.linkedin.com/in/xu-yang-21a86b118/){target="_blank"}
+
+::::
+:::: {.home-content}
+::: {.intro-copy}
+I am a third-year PhD student in Economics at the University of Washington.
+My research is in **development economics, applied microeconomics, and econometrics**. I study household decision-making, fertility, saving and consumption, and the long-run effects of environmental shocks.
+:::
+
+## Current Research {#current-research}
+
+### From Naivete to Sophistication: Forecast Feedback and Saving
+
+*Research design in progress.*
+
+I am developing an experiment that studies whether feedback on consumption-forecast errors helps initially naive individuals become more sophisticated about their future spending, and whether greater sophistication affects saving and consumption smoothing.
+
+### Fertility Constraints and Household Bargaining Power
+
+*Preliminary analysis in progress.*
+
+I study how fertility constraints affect women's labor supply, economic outcomes, and bargaining power within households.
+
+### Life-Stage Flood Exposure and Long-Run Health
+
+*Preliminary analysis in progress.*
+
+I study how exposure to major floods at different stages of life affects long-run health.
+::::
+:::::
